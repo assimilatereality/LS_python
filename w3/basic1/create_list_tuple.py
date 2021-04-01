@@ -1,0 +1,7 @@
+numbers = input("Input a comma separated list of numbers: ")
+print (numbers)
+print (type(numbers))
+list = numbers.split(",")
+tuple = tuple(list)
+print ('list : ', list)
+print ('tuple : ', tuple)
