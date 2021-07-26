@@ -1,0 +1,3 @@
+abc = ''
+print(type(abc))
+
