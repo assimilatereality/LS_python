@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LS_python.iml" filepath="$PROJECT_DIR$/.idea/LS_python.iml" />
+      <module fileurl="file://$USER_HOME$/Code/WellGroundedPythonBook/.idea/WellGroundedPythonBook.iml" filepath="$USER_HOME$/Code/WellGroundedPythonBook/.idea/WellGroundedPythonBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/../refactoring/.idea/refactoring.iml" filepath="$PROJECT_DIR$/../refactoring/.idea/refactoring.iml" />
       <module fileurl="file://$USER_HOME$/Code/machine_learning_examples/rl/.idea/rl.iml" filepath="$USER_HOME$/Code/machine_learning_examples/rl/.idea/rl.iml" />
     </modules>

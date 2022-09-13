@@ -18,6 +18,7 @@ user_options = {
     "l": show_movies,
     "f": find_movie
 }
+print(user_options)
 
 def menu():
     selection = input(MENU_PROMPT)
