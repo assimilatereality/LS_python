@@ -5,3 +5,4 @@ numbers = {
 }
 
 print(numbers.get('low'))
+print(numbers['low'])
